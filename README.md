@@ -41,4 +41,5 @@ When the brief is a finished video, the sources describe the alternative as: des
 
 Stage one of walkthrough 4 is where most pipelines stall, because each generative model has its own API and billing. [Try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=capcut-api-examples&utm_content=readme-top&utm_term=tier-r): one key, one client, and the images, clips and audio you need before any editing or rendering starts.
 
+
 _Last reviewed: 2026-09-22_
